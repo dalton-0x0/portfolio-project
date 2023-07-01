@@ -5,7 +5,7 @@
   "source": "src/template.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
+    "build": "npm run build"
   },
   "repository": {
     "type": "git",

@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/dalton-0x0/portfolio-project#readme",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.9.3",
     "prettier": "^2.8.1"
   },
   "dependencies": {
@@ -28,6 +27,7 @@
     "jquery": "^3.6.3",
     "popper.js": "^1.16.1",
     "vanilla-tilt": "^1.8.0",
-    "parcel": "^2.8.2"
+    "parcel": "^2.8.2",
+    "@parcel/transformer-sass": "^2.9.3"
   }
 }

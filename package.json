@@ -2,10 +2,10 @@
   "name": "dalton-portfolio",
   "version": "2.0.0",
   "description": "A clean, beautiful and responsive portfolio!",
-  "source": "src/template.html",
+  "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build template.html --no-minify"
+    "build": "parcel build src/index.html --no-minify"
   },
   "repository": {
     "type": "git",
